@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandhiya</h1>
-<h3 align="center">I'm Sandhiya Acharya, a passionate developer with interests in Python, Django, AI, ML, and NLP.</h3>
 
-
+- 🔭 I’m interested in Python, Django AI, ML, NLP
 - 🌱 I’m expanding my knowledge by learning Azure Fundamentals.
 - 💻 Open to collaboration on innovative projects that push boundaries.
+- ⚡ Fun fact: I enjoy solving algorithmic puzzles upside-down.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
