@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandhiya</h1>
+<h1 >Hi 👋, I'm Sandhiya</h1>
 
 - 🔭 I’m interested in Python, Django AI, ML, NLP
 - 🌱 I’m expanding my knowledge by learning Azure Fundamentals.
