@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Sandhiya</h1>
 
 - 🔭 I’m interested in Python, Django AI, ML, NLP
-- 🌱 I’m expanding my knowledge by learning Azure Fundamentals.
+- 🌱 I’m expanding my knowledge by learning AWS Cloud.
 - 💻 Open to collaboration on innovative projects that push boundaries.
 - ⚡ Fun fact: I enjoy solving algorithmic puzzles upside-down.
 
